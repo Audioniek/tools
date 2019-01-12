@@ -37,7 +37,7 @@
 #include "global.h"
 #include "map.h"
 
-#define DEVICENAME "TDT RC event driver"
+#define DEVICENAME "SH4 RC event driver"
 char eventPath[] = "/dev/input/event0";
 
 // Checks which event device is created by simubutton.ko
